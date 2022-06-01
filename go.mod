@@ -19,7 +19,7 @@ require (
 	github.com/babolivier/go-doh-client v0.0.0-20201028162107-a76cff4cb8b6
 	github.com/bhendo/go-powershell v0.0.0-20190719160123-219e7fb4e41e
 	github.com/billputer/go-namecheap v0.0.0-20210108011502-994a912fb7f9
-	github.com/cloudflare/cloudflare-go v0.36.0
+	github.com/cloudflare/cloudflare-go v0.40.0
 	github.com/digitalocean/godo v1.78.0
 	github.com/ditashi/jsbeautifier-go v0.0.0-20141206144643-2520a8026a9c
 	github.com/dnsimple/dnsimple-go v0.70.1
@@ -48,7 +48,7 @@ require (
 	github.com/stretchr/testify v1.7.1
 	github.com/tdewolff/minify/v2 v2.10.0
 	github.com/transip/gotransip/v6 v6.14.0
-	github.com/urfave/cli/v2 v2.4.0
+	github.com/urfave/cli/v2 v2.8.1
 	github.com/vultr/govultr v1.1.1
 	github.com/xddxdd/ottoext v0.0.0-20210101073831-439879ee6281
 	golang.org/x/net v0.0.0-20220403103023-749bd193bc2b
@@ -142,6 +142,7 @@ require (
 	github.com/softlayer/xmlrpc v0.0.0-20200409220501-5f089df7cb7e // indirect
 	github.com/stretchr/objx v0.3.0 // indirect
 	github.com/tdewolff/parse/v2 v2.5.27 // indirect
+	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3 // indirect
