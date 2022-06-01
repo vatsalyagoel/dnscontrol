@@ -46,7 +46,7 @@ require (
 	github.com/robertkrimen/otto v0.0.0-20211024170158-b87d35c0b86f
 	github.com/softlayer/softlayer-go v1.0.4
 	github.com/stretchr/testify v1.7.1
-	github.com/tdewolff/minify/v2 v2.10.0
+	github.com/tdewolff/minify/v2 v2.11.7
 	github.com/transip/gotransip/v6 v6.14.0
 	github.com/urfave/cli/v2 v2.4.0
 	github.com/vultr/govultr v1.1.1
@@ -141,12 +141,12 @@ require (
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/softlayer/xmlrpc v0.0.0-20200409220501-5f089df7cb7e // indirect
 	github.com/stretchr/objx v0.3.0 // indirect
-	github.com/tdewolff/parse/v2 v2.5.27 // indirect
+	github.com/tdewolff/parse/v2 v2.5.32 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20211013180041-c96bc1413d57 // indirect
-	golang.org/x/sys v0.0.0-20220328115105-d36c6a25d886 // indirect
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20220224211638-0e9765cccd65 // indirect
 	golang.org/x/tools v0.1.8-0.20211029000441-d6a9af8af023 // indirect
