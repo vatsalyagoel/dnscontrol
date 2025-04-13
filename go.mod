@@ -21,7 +21,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.36.3
 	github.com/aws/aws-sdk-go-v2/config v1.29.12
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.65
-	github.com/aws/aws-sdk-go-v2/service/route53 v1.50.0
+	github.com/aws/aws-sdk-go-v2/service/route53 v1.51.1
 	github.com/aws/aws-sdk-go-v2/service/route53domains v1.29.1
 	github.com/babolivier/go-doh-client v0.0.0-20201028162107-a76cff4cb8b6
 	github.com/billputer/go-namecheap v0.0.0-20210108011502-994a912fb7f9
