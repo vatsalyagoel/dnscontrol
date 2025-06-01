@@ -43,7 +43,7 @@ require (
 	github.com/ovh/go-ovh v1.7.0
 	github.com/philhug/opensrs-go v0.0.0-20171126225031-9dfa7433020d
 	github.com/pkg/errors v0.9.1
-	github.com/pquerna/otp v1.4.0
+	github.com/pquerna/otp v1.5.0
 	github.com/qdm12/reprint v0.0.0-20200326205758-722754a53494
 	github.com/robertkrimen/otto v0.5.1
 	github.com/softlayer/softlayer-go v1.1.7
