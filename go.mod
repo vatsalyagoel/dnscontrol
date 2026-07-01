@@ -79,7 +79,7 @@ require (
 )
 
 require (
-	codeberg.org/miekg/dns v0.6.79
+	codeberg.org/miekg/dns v0.6.83
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.21.1
 	github.com/G-Core/gcore-dns-sdk-go v0.3.3
