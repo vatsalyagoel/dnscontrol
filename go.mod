@@ -50,7 +50,7 @@ require (
 	github.com/babolivier/go-doh-client v0.0.0-20201028162107-a76cff4cb8b6
 	github.com/billputer/go-namecheap v0.0.0-20210108011502-994a912fb7f9
 	github.com/cloudflare/cloudflare-go v0.117.0
-	github.com/digitalocean/godo v1.194.1
+	github.com/digitalocean/godo v1.197.0
 	github.com/ditashi/jsbeautifier-go v0.0.0-20141206144643-2520a8026a9c
 	github.com/dnsimple/dnsimple-go/v8 v8.3.0
 	github.com/exoscale/egoscale/v3 v3.1.37

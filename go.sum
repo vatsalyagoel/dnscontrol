@@ -120,8 +120,8 @@ github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1VwoXQT9A3Wy9MM3WgvqSxFWenqJduM=
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/digitalocean/godo v1.194.1 h1:NaJzcMNFkbxhdIIqnKfBLUtrOvhXZJU8pAsIHfSNmVE=
-github.com/digitalocean/godo v1.194.1/go.mod h1:xQsWpVCCbkDrWisHA72hPzPlnC+4W5w/McZY5ij9uvU=
+github.com/digitalocean/godo v1.197.0 h1:9n0i/E+iX7BWFyWqNyNhBoxFPwfBEIe3rhnDFxK/lvs=
+github.com/digitalocean/godo v1.197.0/go.mod h1:xQsWpVCCbkDrWisHA72hPzPlnC+4W5w/McZY5ij9uvU=
 github.com/ditashi/jsbeautifier-go v0.0.0-20141206144643-2520a8026a9c h1:+Zo5Ca9GH0RoeVZQKzFJcTLoAixx5s5Gq3pTIS+n354=
 github.com/ditashi/jsbeautifier-go v0.0.0-20141206144643-2520a8026a9c/go.mod h1:HJGU9ULdREjOcVGZVPB5s6zYmHi1RxzT71l2wQyLmnE=
 github.com/dnsimple/dnsimple-go/v8 v8.3.0 h1:/vKSG7HWC3lAbpC38KC7JVp4M4CMyHQwKaVLcekAAGQ=
